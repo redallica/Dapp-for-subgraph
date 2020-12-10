@@ -1,4 +1,4 @@
-In this project I have created a basic React app and connect it to the [YFV subgraph](https://github.com/redallica/subgraph-for-YFV) using [Apollo](https://www.apollographql.com/) provider, so that we can consume APIs anywhere directly inside the **React app** using **Apollo queries** with **GraphQL**
+In this project I have created a basic React app and connect it to the [YFV subgraph](https://github.com/redallica/subgraph-for-YFV) using [Apollo](https://www.apollographql.com/) provider, so that we can consume [YFV subgraph](https://github.com/redallica/subgraph-for-YFV) anywhere directly inside the **React app** using **Apollo queries** with **GraphQL**
 
 # Getting Started with Create React App
 
